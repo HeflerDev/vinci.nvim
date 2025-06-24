@@ -78,9 +78,9 @@ Vinci.palette = {
   dark3 = "#c8b79a",
   dark4 = "#bca988",
 
-  light0_hard = "#faf5ec",
-  light0 = "#fdfaf5",
-  light0_soft = "#fffdf8",
+  light0_hard = "#eb6b34",
+  light0 = "#ebe234",
+  light0_soft = "#001aff",
   light1 = "#f1e6d6",
   light2 = "#e6d6be",
   light3 = "#dbc6a6",
