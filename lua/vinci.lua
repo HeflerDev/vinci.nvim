@@ -1335,7 +1335,7 @@ Vinci.load = function()
   if vim.g.colors_name then
     vim.cmd.hi("clear")
   end
-  vim.g.colors_name = "surge0n"
+  vim.g.colors_name = "vinci"
   vim.o.termguicolors = true
 
   local groups = get_groups()
